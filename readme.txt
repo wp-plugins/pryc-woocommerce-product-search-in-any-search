@@ -17,8 +17,8 @@ Search WooCommerce product at default theme search field or any other...
 2. Activate the plugin through the \'Plugins\' menu in WordPress
 
 == Screenshots ==
-1. pryc_woocommerce_product_search_in_any_search_after01.png
-2. pryc_woocommerce_product_search_in_any_search_before02.png
+1. screenshot-1.png
+2. screenshot-2.png
 
 == Changelog ==
 1.0.1: First public ver.
