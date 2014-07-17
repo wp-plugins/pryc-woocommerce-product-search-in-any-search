@@ -17,8 +17,8 @@ Search WooCommerce product at default theme search field or any other...
 2. Activate the plugin through the \'Plugins\' menu in WordPress
 
 == Screenshots ==
-1. screenshot-1.png
-2. screenshot-2.png
+1. Default search before
+2. Default search after
 
 == Changelog ==
 1.0.1: First public ver.
