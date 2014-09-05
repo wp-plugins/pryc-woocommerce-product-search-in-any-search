@@ -1,4 +1,4 @@
-=== PRyC WooCommerce product search in any search ===
+=== PRyC WooCommerce: Product search in any search ===
 Contributors: PRyCpl
 Tags: WooCommerce, search, search field, ecommerce
 Requires at least: 3.0.1

@@ -1,11 +1,11 @@
 <?php
 /*
- * Plugin Name: PRyC WooCommerce: product search in any search
+ * Plugin Name: PRyC WooCommerce: Product search in any search
  * Plugin URI: http://PRyC.pl
  * Description: Search WooCommerce product at default theme search field or any other...
  * Author: PRyC
  * Author URI: http://PRyC.pl
- * Version: 1.0.2
+ * Version: 1.0.3
  * License: GPLv2 or later
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
