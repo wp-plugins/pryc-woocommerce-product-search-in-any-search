@@ -5,7 +5,7 @@
  * Description: Search WooCommerce product at default theme search field or any other...
  * Author: PRyC
  * Author URI: http://PRyC.pl
- * Version: 1.0.3
+ * Version: 1.0.4
  * License: GPLv2 or later
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
@@ -34,11 +34,14 @@ if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 
 function pryc_woocommerce_product_search_in_any_search() {
         if ( is_search() && !empty($_GET['s']) && empty($_GET['post_type'])) {
-                wp_redirect(home_url("/?s=") . urlencode(get_query_var('s')) . "&post_type=product");
+				wp_safe_redirect("/?s=" . urlencode(get_query_var('s')) . "&post_type=product");
                 exit();
         }
 }
 add_action('template_redirect', 'pryc_woocommerce_product_search_in_any_search');
 
 /* END */
+
+
+
 ?>
